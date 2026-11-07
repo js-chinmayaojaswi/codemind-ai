@@ -1,5 +1,12 @@
 # 🧠 CodeMind AI — Self-Learning Code Review Agent
 
+[![Live Website](https://img.shields.io/badge/Live_Website-Deployed-success?style=for-the-badge&logo=githubpages&logoColor=white)](https://js-chinmayaojaswi.github.io/codemind-ai/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/js-chinmayaojaswi/codemind-ai)
+
+> 🌐 **Live Website & Studio URL**: [**https://js-chinmayaojaswi.github.io/codemind-ai/**](https://js-chinmayaojaswi.github.io/codemind-ai/)
+
+---
+
 [![Python](https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white)](https://python.org)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.110+-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
 [![React](https://img.shields.io/badge/React-18.3-61DAFB?logo=react&logoColor=black)](https://react.dev)
