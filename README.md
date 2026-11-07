@@ -3,7 +3,12 @@
 [![Live Website](https://img.shields.io/badge/Live_Website-Deployed-success?style=for-the-badge&logo=githubpages&logoColor=white)](https://js-chinmayaojaswi.github.io/codemind-ai/)
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/js-chinmayaojaswi/codemind-ai)
 
-> 🌐 **Live Website & Studio URL**: [**https://js-chinmayaojaswi.github.io/codemind-ai/**](https://js-chinmayaojaswi.github.io/codemind-ai/)
+> 🌐 **Live Website & Studio URL**: [**https://js-chinmayaojaswi.github.io/codemind-ai/**](https://js-chinmayaojaswi.github.io/codemind-ai/)  
+> 📹 **30-Second Demo Video**: [**Watch MP4 Video**](https://github.com/js-chinmayaojaswi/codemind-ai/blob/main/demo_30s.mp4)
+
+---
+
+![CodeMind AI 30-Second Demo](https://raw.githubusercontent.com/js-chinmayaojaswi/codemind-ai/main/demo_30s.gif)
 
 ---
 
